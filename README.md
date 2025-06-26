@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CeekoEast
 - 👀 I’m interested in ... evolution and growth in my walk.
-- 🌱 I’m currently learning ... HTML
+- 🌱 I’m currently learning ... HTML & Cybersecurity.
 - 💞️ I’m looking to collaborate on ... web applications.
 - 📫 How to reach me ... 
 - 😄 Pronouns: ... He/Him
